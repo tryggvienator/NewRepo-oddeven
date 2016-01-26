@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<GenericTest name="GenericTest1" storage="c:\users\notandi\documents\visual studio 2015\projects\evenodd\unittestproject1\generictest1.generictest" id="5b5c5795-4500-487e-8f6a-97d2dc1db842" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Command filename="C:\Users\Notandi\Documents\visual studio 2015\Projects\EvenOdd\EvenOdd\bin\Debug\EvenOdd.exe" arguments="1" workingDirectory="%TestOutputDirectory%" />
+  <SummaryXmlFile path="%TestOutputDirectory%\&lt;Enter summary file name here&gt;" />
+</GenericTest>
